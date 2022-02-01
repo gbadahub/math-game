@@ -28,5 +28,4 @@ end
 
 end
 
-player1= Players.new("georgina")
-puts player1.game_question
+
